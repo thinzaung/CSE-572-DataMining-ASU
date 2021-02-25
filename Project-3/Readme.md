@@ -21,4 +21,5 @@ python main.py
 This is a school project based on different researchs and lecture. 
 * https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
 * https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py
-* 
+* http://www.knowstack.com/dbscan-clustering-sample/
+* http://www.knowstack.com/sse-calculation-for-a-clustering/
