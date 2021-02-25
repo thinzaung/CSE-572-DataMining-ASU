@@ -23,3 +23,4 @@ This is a school project based on different researchs and lecture.
 * https://scikit-learn.org/stable/auto_examples/cluster/plot_dbscan.html#sphx-glr-auto-examples-cluster-plot-dbscan-py
 * http://www.knowstack.com/dbscan-clustering-sample/
 * http://www.knowstack.com/sse-calculation-for-a-clustering/
+* https://towardsdatascience.com/machine-learning-clustering-dbscan-determine-the-optimal-value-for-epsilon-eps-python-example-3100091cfbc
