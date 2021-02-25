@@ -2,8 +2,8 @@
 
 In this project, we need to extract Meal, No Meal data from CGM and Inusulin Dataset given. Based on that we create the features and train the data on Random Forest Classification and create a pickle file. Use the pickle model to train the data and create the csv file.
 
-#### train.py - will extract and organize data and train them based on the classification model chosen. Output of this python file will be a pickle file.
-#### test.py - based on the model pickel file generated, test the data and generate results in csv file.
+#### * train.py - will extract and organize data and train them based on the classification model chosen. Output of this python file will be a pickle file.
+#### * test.py - based on the model pickel file generated, test the data and generate results in csv file.
 
 ## Technology Requirment
 
