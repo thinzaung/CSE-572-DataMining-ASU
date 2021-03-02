@@ -24,3 +24,10 @@ This is a school project based on different researchs and lecture.
 * http://www.knowstack.com/dbscan-clustering-sample/
 * http://www.knowstack.com/sse-calculation-for-a-clustering/
 * https://towardsdatascience.com/machine-learning-clustering-dbscan-determine-the-optimal-value-for-epsilon-eps-python-example-3100091cfbc
+* https://stats.stackexchange.com/questions/72606/k-means-clustering-after-first-iteration
+* https://www.datasciencecentral.com/profiles/blogs/steps-to-calculate-centroids-in-cluster-using-k-means-clustering
+* https://www.kdnuggets.com/2020/06/centroid-initialization-k-means-clustering.html
+* https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68
+* https://towardsdatascience.com/dbscan-algorithm-complete-guide-and-application-with-python-scikit-learn-d690cbae4c5d
+* https://blog.dominodatalab.com/topology-and-density-based-clustering/
+* https://www.kdnuggets.com/2020/04/dbscan-clustering-algorithm-machine-learning.html
